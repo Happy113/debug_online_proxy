@@ -1,0 +1,25 @@
+{
+    "name": "debug_online_proxy",
+    "version": "0.0.1",
+    "description": "debugging proxy for web developers base on NodeJS",
+    "keywords": [
+        "proxy",
+        "debug",
+        "web",
+        "develop",
+        "autoResponse",
+        "fiddler"
+    ],
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/gutou121/debug_online_proxy.git"
+    },
+    "author": "tianchi 372127449@qq.com",
+    "dependencies": {
+        "mime": "*"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "license": "GPL"
+}
